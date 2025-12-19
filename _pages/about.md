@@ -12,8 +12,7 @@ profile:
     <div align="center">
     <p> Department of Engineering <br>
     Trumpington St <br>
-     CB2 1PZ, Cambridge UK <br>
-    <br>
+    CB2 1PZ, Cambridge UK <br>
     <tt> sam297 [at] cam.ac.uk </tt> <p/> <br> 
     <p> &nbsp; </p>
     <p> &nbsp; </p>
