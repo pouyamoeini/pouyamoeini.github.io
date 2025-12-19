@@ -8,12 +8,16 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p> Department of Engineering </p>
-    <p>Trumpington St</p>
-    <p> CB2 1PZ, Cambridge UK </p>
+  address: >
+    <div align="center">
+    <p> Department of Engineering <br>
+    Trumpington St <br>
+     CB2 1PZ, Cambridge UK <br>
     <br>
-    <tt> sam297 [at] cam.ac.uk </tt>
+    <tt> sam297 [at] cam.ac.uk </tt> <p/> <br> 
+    <p> &nbsp; </p>
+    <p> &nbsp; </p>
+    </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
