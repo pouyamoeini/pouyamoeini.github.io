@@ -32,4 +32,6 @@ latest_posts:
 
 I am a PhD student at the University of Cambridge working with <a href='https://guillen-it.github.io'> Prof. Albert Guillén i Fàbregas</a>. 
 I am grateful to be generously supported by the Cambridge Trust.
-Prior to coming to Cambridge, I was an undergraduate student at Sharif University of Technology studying Computer Engineering and Applied Mathematics.
+Prior to joining Cambridge, I completed my undergraduate studies at Sharif University of Technology, where I studied Computer Engineering and Applied Mathematics.
+<br>
+I am broadly interested in information theory {Shannon theory, random coding, and error exponents}, applied probability, and combinatorics.
