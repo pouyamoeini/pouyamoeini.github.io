@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Engineering at the <a href='https://www.eng.cam.ac.uk/profiles/sam297'>University of Cambridge</a>. 
+subtitle: PhD Student in Engineering at the <a href='https://www.eng.cam.ac.uk/profiles/sam297'>University of Cambridge</a>
 
 profile:
   align: right
