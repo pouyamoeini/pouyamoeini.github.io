@@ -30,7 +30,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at the University of Cambridge working with <a href='https://guillen-it.github.io'> Prof. Albert Guillén i Fàbregas</a>. 
+I am a PhD student at <a href='https://www.trinhall.cam.ac.uk/'>Trinity Hall </a>, University of Cambridge, working with <a href='https://guillen-it.github.io'> Prof. Albert Guillén i Fàbregas</a>. 
+I am a member of the
+<a href="https://psi2.eng.cam.ac.uk/" target="_blank">Probabilistic Systems, Information, and Inference</a> (PSI<sup>2</sup>) Group within the Division of
+<a href="https://divf.eng.cam.ac.uk/" target="_blank">Information Engineering</a>.
 My doctoral studies are generously supported by the Cambridge Trust.
 Prior to joining Cambridge, I completed my undergraduate studies at <a href='https://en.sharif.ir/'> Sharif University of Technology</a>, where I studied Computer Engineering and Applied Mathematics.
 <br>
