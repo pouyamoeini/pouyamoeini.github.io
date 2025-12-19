@@ -511,6 +511,20 @@ ninja.data = [{
           window.open("mailto:%73%61%6D%32%39%37@%63%61%6D.%61%63.%75%6B", "_blank");
         },
       },{
+        id: 'social-ieee',
+        title: 'IEEE Xplore',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://ieeexplore.ieee.org/author/https://ieeexplore.ieee.org/author/352663946647726/", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/pouya-moeini-472b29177", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
