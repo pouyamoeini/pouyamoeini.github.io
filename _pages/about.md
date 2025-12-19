@@ -30,7 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student at <a href='https://www.trinhall.cam.ac.uk/'>Trinity Hall </a>, University of Cambridge, working with <a href='https://guillen-it.github.io'> Prof. Albert Guillén i Fàbregas</a>. 
+I am a PhD student at <a href='https://www.trinhall.cam.ac.uk/'>Trinity Hall</a>, University of Cambridge, working with <a href='https://guillen-it.github.io'> Prof. Albert Guillén i Fàbregas</a>. 
 I am a member of the
 <a href="https://psi2.eng.cam.ac.uk/" target="_blank">Probabilistic Systems, Information, and Inference</a> (PSI<sup>2</sup>) Group within the Division of
 <a href="https://divf.eng.cam.ac.uk/" target="_blank">Information Engineering</a>.
