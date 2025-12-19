@@ -34,4 +34,4 @@ I am a PhD student at the University of Cambridge working with <a href='https://
 I am grateful to be generously supported by the Cambridge Trust.
 Prior to joining Cambridge, I completed my undergraduate studies at Sharif University of Technology, where I studied Computer Engineering and Applied Mathematics.
 <br>
-I am broadly interested in information theory {Shannon theory, random coding, and error exponents}, applied probability, and combinatorics.
+I am broadly interested in information theory {Shannon theory, random coding, error exponents}, applied probability, and combinatorics.
