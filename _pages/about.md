@@ -11,7 +11,8 @@ profile:
   more_info: >
     <p> Department of Engineering </p>
     <p>Trumpington St</p>
-    <p> CB2 1PZ, Cambridge UK</p>
+    <p> CB2 1PZ, Cambridge UK </p>
+    <br>
     <tt> sam297 [at] cam.ac.uk </tt>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
