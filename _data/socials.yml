@@ -18,7 +18,7 @@ email: sam297@cam.ac.uk # your email address
 # github_username: # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
-# ieee_id: # your ieeexplore.ieee.org/author/id
+ieee_id: https://ieeexplore.ieee.org/author/352663946647726
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
@@ -26,7 +26,7 @@ email: sam297@cam.ac.uk # your email address
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
+linkedin_username: pouya-moeini-472b29177
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
