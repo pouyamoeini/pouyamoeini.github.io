@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Engineering at the <a href='https://www.eng.cam.ac.uk/profiles/sam297'>University of Cambridge</a>
+subtitle: Ph.D. Student in Engineering at the <a href='https://www.eng.cam.ac.uk/profiles/sam297'>University of Cambridge</a>
 
 profile:
   align: right
@@ -35,7 +35,7 @@ I am a PhD student at <a href='https://www.trinhall.cam.ac.uk/'>Trinity Hall</a>
 I am a member of the
 <a href="https://psi2.eng.cam.ac.uk/" target="_blank">Probabilistic Systems, Information, and Inference</a> (PSI<sup>2</sup>) Group within the Division of
 <a href="https://divf.eng.cam.ac.uk/" target="_blank">Information Engineering</a>.
-My doctoral studies are generously supported by the Cambridge Trust.
+My PhD is generously supported by the Cambridge Trust.
 Prior to joining Cambridge, I completed my undergraduate studies at <a href='https://en.sharif.ir/'> Sharif University of Technology</a>, where I studied Computer Engineering and Applied Mathematics.
 <br>
 <br>
