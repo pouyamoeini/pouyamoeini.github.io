@@ -40,6 +40,6 @@ Prior to joining Cambridge, I completed my undergraduate studies at <a href='htt
 <br>
 <br>
 I am broadly interested in <b>information theory</b>, <b>applied probability</b>, and <b>combinatorics</b>.
-<be>
+<br>
 See my CV <a href="https://pouyamoeini.github.io/assets/pdf/my_cv.pdf">here</a> (last updated Dec 2025).
 
