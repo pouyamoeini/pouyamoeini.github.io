@@ -1,11 +1,19 @@
 metadata:
-  last_updated: '2025-12-29'
+  last_updated: '2026-01-28'
 papers:
-  BN57dkoAAAAJ:u-x6o8ySG0sC:
+  BN57dkoAAAAJ:2osOgNQ5qMEC:
     citations: 0
-    title: Class-Based Expurgation Attains Csisz\'ar's Expurgated Source-Channel Exponent
+    title: Random Gilbert-Varshamov Codes for Joint Source-Channel Coding
+    year: '2026'
+  BN57dkoAAAAJ:UeHWp8X0CEIC:
+    citations: 3
+    title: Dual-domain exponent of maximum mutual information decoding
     year: '2025'
-  BN57dkoAAAAJ:u5HHmVD_uO8C:
+  BN57dkoAAAAJ:qjMakFHDy7sC:
     citations: 1
-    title: Dual-Domain Exponent of Maximum Mutual Information Decoding
+    title: 'Two-Class Joint Source-Channel Coding: Expurgated Exponents with iid Distributions'
+    year: '2026'
+  BN57dkoAAAAJ:u-x6o8ySG0sC:
+    citations: 2
+    title: "Class-based expurgation attains csisz\xE1r\u2019s expurgated source-channel exponent"
     year: '2025'
