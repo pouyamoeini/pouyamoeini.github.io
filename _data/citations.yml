@@ -1,13 +1,9 @@
 metadata:
-  last_updated: '2026-02-11'
+  last_updated: '2026-03-09'
 papers:
   BN57dkoAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Random Gilbert-Varshamov Codes for Joint Source-Channel Coding
-    year: '2026'
-  BN57dkoAAAAJ:IjCSPb-OGe4C:
-    citations: 0
-    title: 'Two-Class Joint Source-Channel Coding: Expurgated Exponents with iid Distributions'
     year: '2026'
   BN57dkoAAAAJ:UeHWp8X0CEIC:
     citations: 3
@@ -19,5 +15,9 @@ papers:
     year: '2026'
   BN57dkoAAAAJ:u-x6o8ySG0sC:
     citations: 2
-    title: "Class-based expurgation attains csisz\xE1r\u2019s expurgated source-channel exponent"
+    title: "Class-based expurgation attains Csisz\xE1r\u2019s expurgated source-channel exponent"
     year: '2025'
+  BN57dkoAAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: The Expurgated Error Exponent is Not Universally Achievable
+    year: '2026'
