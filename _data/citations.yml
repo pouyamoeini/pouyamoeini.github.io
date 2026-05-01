@@ -1,9 +1,13 @@
 metadata:
-  last_updated: '2026-03-09'
+  last_updated: '2026-05-01'
 papers:
   BN57dkoAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: Random Gilbert-Varshamov Codes for Joint Source-Channel Coding
+    year: '2026'
+  BN57dkoAAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: The Expurgated Error Exponent is Not Universally Achievable
     year: '2026'
   BN57dkoAAAAJ:UeHWp8X0CEIC:
     citations: 3
