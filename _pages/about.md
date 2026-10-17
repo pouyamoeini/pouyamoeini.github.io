@@ -33,7 +33,7 @@ latest_posts:
 <br>
 I am a PhD student in the Department of Engineering at the University of Cambridge and a member of <a href='https://www.trinhall.cam.ac.uk/'>Trinity Hall</a>, supervised by <a href='https://guillen-it.github.io'>Prof. Albert Guillén i Fàbregas</a>.
 I am part of the <a href="https://psi2.eng.cam.ac.uk/" target="_blank">Probabilistic Systems, Information, and Inference</a> (PSI<sup>2</sup>) Group in the Division of <a href="https://divf.eng.cam.ac.uk/" target="_blank">Information Engineering</a>, and my PhD is generously supported by the Cambridge Trust.
-Before Cambridge, I studied Computer Engineering and Applied Mathematics at <a href='https://en.sharif.ir/'>Sharif University of Technology</a>.
+Before Cambridge, I studied Computer Engineering and Mathematics at <a href='https://en.sharif.ir/'>Sharif University of Technology</a>.
 <br>
 <br>
 My research focuses on <b>error exponents</b> in channel and joint source-channel coding. I derive achievability and converse bounds under mismatched and universal decoding, using tools from large deviations and probabilistic combinatorics. More broadly, I am interested in information theory, applied probability, and combinatorics.

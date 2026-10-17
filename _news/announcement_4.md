@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Visited Jonathan Scarlett at the Institute of Data Science, National University of Singapore.
+Visited Dr. Jonathan Scarlett at the National University of Singapore, Singapore.

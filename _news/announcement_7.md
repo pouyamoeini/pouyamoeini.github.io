@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Visited Marco Dalai at the University of Brescia.
+Visited Dr. Marco Dalai at the University of Brescia, Brescia, Italy.
