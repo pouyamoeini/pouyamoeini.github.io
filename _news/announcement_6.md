@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New preprint with Marco Dalai: [The Expurgated Error Exponent is Not Universally Achievable](https://arxiv.org/abs/2603.01736).
+New preprint with Marco Dalai and Albert Guillén i Fàbregas: [The Expurgated Error Exponent is Not Universally Achievable](https://arxiv.org/abs/2603.01736).

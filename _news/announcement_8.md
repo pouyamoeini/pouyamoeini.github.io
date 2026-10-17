@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Visiting the Department of Signal Theory and Communications at Universitat Politècnica de Catalunya (UPC), Barcelona.
+Visiting the Department of Signal Theory and Communications at Universitat Politècnica de Catalunya (UPC), Barcelona, Spain.
