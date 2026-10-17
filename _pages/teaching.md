@@ -9,7 +9,7 @@ nav_order: 6
 
 ### University of Cambridge
 
-I give supervisions (small-group teaching) for the following undergraduate courses.
+I give supervisions for the following undergraduate courses.
 
 | Course                                       | Terms                        |
 | :------------------------------------------- | :--------------------------- |
