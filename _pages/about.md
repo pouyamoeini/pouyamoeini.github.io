@@ -36,7 +36,7 @@ I am part of the <a href="https://psi2.eng.cam.ac.uk/" target="_blank">Probabili
 Before Cambridge, I studied Computer Engineering and Mathematics at <a href='https://en.sharif.ir/'>Sharif University of Technology</a>.
 <br>
 <br>
-My research is in information theory and probability, with interests extending to statistical inference and learning theory. I am drawn to questions about fundamental limits, and to the probabilistic and combinatorial tools used to establish them, such as large deviations, the method of types, graph theory, and combinatorics. In my PhD, I study these limits for communication in the universal and mismatched settings. Before my PhD, I worked on information-theoretic bounds for online learning and on robust approximate Bayesian computation.
+My research is in information theory and probability, with interests extending to statistical inference and learning theory. I am drawn to questions about fundamental limits and to the tools used to establish them, such as large deviations, the method of types, and combinatorial and graph-theoretic arguments. In my PhD, I study two such limits, capacity and the reliability function, in universal and mismatched settings. Before my PhD, I worked on information-theoretic bounds for online learning and on robust approximate Bayesian computation.
 <br>
 <br>
 My CV is available <a href="https://pouyamoeini.github.io/assets/pdf/my_cv.pdf">here</a> (last updated September 2026).
