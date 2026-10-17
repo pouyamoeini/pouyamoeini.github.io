@@ -11,12 +11,12 @@ nav_order: 6
 
 I give supervisions for the following undergraduate courses.
 
-| Course                                       | Terms                        |
-| :------------------------------------------- | :--------------------------- |
-| 3F7 Information Theory and Coding (Part IIA) | Michaelmas 2024, 2025, 2026  |
-| 3F4 Data Transmission (Part IIA)             | Lent 2025, 2026              |
-| 1P4 Mathematics (Part IA)                    | Easter 2026, Michaelmas 2026 |
-| 2P7 Mathematical Methods (Part IB)           | Michaelmas 2026              |
+| Course                                                                                                                                             | Terms                        |
+| :------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------- |
+| 3F7 Information Theory and Coding (Part IIA)                                                                                                       | Michaelmas 2024, 2025, 2026  |
+| 3F4 Data Transmission (Part IIA)                                                                                                                   | Lent 2025, 2026              |
+| 1P4 Mathematics (Part IA)<br><small>Vectors, complex numbers, differential equations, matrices, multivariable calculus, Laplace transforms</small> | Easter 2026, Michaelmas 2026 |
+| 2P7 Mathematical Methods (Part IB)<br><small>Vector calculus, linear algebra, probability</small>                                                  | 2026–27                      |
 
 <br>
 
