@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student in Engineering at the <a href='https://www.eng.cam.ac.uk/profiles/sam297'>University of Cambridge</a>
+subtitle: PhD Student in Engineering at the <a href='https://www.eng.cam.ac.uk/profiles/sam297'>University of Cambridge</a>
 
 profile:
   align: right
@@ -16,13 +16,13 @@ profile:
       <tt> sam297 [at] cam.ac.uk </tt>
     </p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -31,15 +31,12 @@ latest_posts:
 ---
 
 <br>
-I am a PhD student at <a href='https://www.trinhall.cam.ac.uk/'>Trinity Hall</a> college, University of Cambridge, working with <a href='https://guillen-it.github.io'> Prof. Albert Guillén i Fàbregas</a>. 
-I am a member of the
-<a href="https://psi2.eng.cam.ac.uk/" target="_blank">Probabilistic Systems, Information, and Inference</a> (PSI<sup>2</sup>) Group within the Division of
-<a href="https://divf.eng.cam.ac.uk/" target="_blank">Information Engineering</a>.
-My PhD is generously supported by the Cambridge Trust.
-Prior to joining Cambridge, I completed my undergraduate studies at <a href='https://en.sharif.ir/'> Sharif University of Technology</a>, where I studied Computer Engineering and Applied Mathematics.
+I am a PhD student in the Department of Engineering at the University of Cambridge and a member of <a href='https://www.trinhall.cam.ac.uk/'>Trinity Hall</a>, supervised by <a href='https://guillen-it.github.io'>Prof. Albert Guillén i Fàbregas</a>.
+I am part of the <a href="https://psi2.eng.cam.ac.uk/" target="_blank">Probabilistic Systems, Information, and Inference</a> (PSI<sup>2</sup>) Group in the Division of <a href="https://divf.eng.cam.ac.uk/" target="_blank">Information Engineering</a>, and my PhD is generously supported by the Cambridge Trust.
+Before Cambridge, I studied Computer Engineering and Applied Mathematics at <a href='https://en.sharif.ir/'>Sharif University of Technology</a>.
 <br>
 <br>
-I am broadly interested in <b>information theory</b>, <b>applied probability</b>, and <b>combinatorics</b>.
+My research focuses on <b>error exponents</b> in channel and joint source-channel coding. I derive achievability and converse bounds under mismatched and universal decoding, using tools from large deviations and probabilistic combinatorics. More broadly, I am interested in information theory, applied probability, and combinatorics.
 <br>
-See my CV <a href="https://pouyamoeini.github.io/assets/pdf/my_cv.pdf">here</a> (last updated Sep 2026).
-
+<br>
+My CV is available <a href="https://pouyamoeini.github.io/assets/pdf/my_cv.pdf">here</a> (last updated September 2026).
