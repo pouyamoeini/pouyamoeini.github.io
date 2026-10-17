@@ -2,8 +2,33 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description: Supervisions at the University of Cambridge and teaching assistantships at Sharif University of Technology.
 nav: true
 nav_order: 6
 ---
 
+### University of Cambridge
+
+I give supervisions (small-group teaching) for the following undergraduate courses.
+
+| Course                            | Year     | Terms                        |
+| :-------------------------------- | :------- | :--------------------------- |
+| 3F7 Information Theory and Coding | Part IIA | Michaelmas 2024, 2025, 2026  |
+| 3F4 Data Transmission             | Part IIA | Lent 2025, 2026              |
+| Mathematics                       | Part IA  | Easter 2026, Michaelmas 2026 |
+| Mathematics                       | Part IIA | Michaelmas 2026              |
+
+### Sharif University of Technology
+
+I was a teaching assistant for the following courses.
+
+| Course                                   | Terms                  |
+| :--------------------------------------- | :--------------------- |
+| Information Theory and Coding (graduate) | Fall 2022              |
+| Theoretical Machine Learning (graduate)  | Fall 2022              |
+| Statistical Machine Learning (graduate)  | Spring 2022            |
+| Artificial Intelligence                  | Fall 2021, Spring 2022 |
+| Mathematical Statistics                  | Fall 2021              |
+| Data Structures and Algorithms           | Spring 2021            |
+| Linear Algebra                           | Spring 2021            |
+| Regression Analysis                      | Spring 2021            |
