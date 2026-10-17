@@ -16,7 +16,7 @@ I give supervisions (small-group teaching) for the following undergraduate cours
 | 3F7 Information Theory and Coding (Part IIA) | Michaelmas 2024, 2025, 2026  |
 | 3F4 Data Transmission (Part IIA)             | Lent 2025, 2026              |
 | 1P4 Mathematics (Part IA)                    | Easter 2026, Michaelmas 2026 |
-| Mathematics (Part IIA)                       | Michaelmas 2026              |
+| 2P7 Mathematical Methods (Part IB)           | Michaelmas 2026              |
 
 <br>
 
