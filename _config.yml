@@ -9,12 +9,12 @@ last_name: Moeini
 contact_note: >
   E-mail is the best way to reach me. Feel free to send me a message!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Pouya (AmirPouya) Moeini, PhD student at the University of Cambridge working on information theory:
+  Pouya (Seyed AmirPouya) Moeini, PhD student at the University of Cambridge working on information theory:
   error exponents, mismatched and universal decoding, and joint source-channel coding.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Pouya Moeini, AmirPouya Moeini, information theory, error exponents, mismatched decoding, universal decoding, joint source-channel coding, University of Cambridge # add your own keywords or leave empty
+keywords: Pouya Moeini, AmirPouya Moeini, Seyed AmirPouya Moeini, information theory, error exponents, mismatched decoding, universal decoding, joint source-channel coding, University of Cambridge # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -265,7 +265,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Moeini]
-  first_name: [AmirPouya, A.]
+  first_name: [Seyed AmirPouya, AmirPouya, S. A., A.]
 
   style: apa
   locale: en

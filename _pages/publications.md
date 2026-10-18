@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: I publish under the name AmirPouya Moeini.
+description: I publish under the name Seyed AmirPouya Moeini.
 nav: true
 nav_order: 2
 ---
