@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "I publish under the name AmirPouya Moeini.",
+          description: "I publish under the name Seyed AmirPouya Moeini.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
