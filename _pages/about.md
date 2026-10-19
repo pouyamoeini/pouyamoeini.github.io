@@ -39,4 +39,4 @@ Before Cambridge, I studied Computer Engineering and Mathematics at <a href='htt
 My research is in information theory and probability, with interests extending to statistical inference and learning theory. I am drawn to questions about fundamental limits and to the tools used to establish them, such as large deviations, combinatorics, and graph theory. In my PhD, I study two such limits, capacity and the reliability function, in universal and mismatched settings. Before my PhD, I worked on information-theoretic bounds for online learning and on robust approximate Bayesian computation under model misspecification.
 <br>
 <br>
-My CV is available <a href="https://pouyamoeini.github.io/assets/pdf/my_cv.pdf">here</a> (last updated September 2026).
+My CV is available <a href="https://pouyamoeini.github.io/assets/pdf/my_cv.pdf">here</a> (last updated October 2026).
